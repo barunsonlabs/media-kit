@@ -1,10 +1,10 @@
 # BRS Brand Resources
 
-## Resources
+## logo-icon
 
-| Filename                   | Type | Explanation |
-| -------------------------- | ---- | ----------- |
-| symbol.ai                  | AI   |             |
-| symbol-32.png              | PNG  |             |
-| guideline-barunsonlabs.pdf | PDF  |             |
-| guideline-symbol.pdf       | PDF  |             |
+| Filename                    | Type              |
+| --------------------------- | ----------------- |
+| symbol.ai                   | Adobe Illustrator |
+| symbol-32.png               | PNG               |
+| styleguide-barunsonlabs.pdf | PDF               |
+| styleguide-symbol.pdf       | PDF               |
